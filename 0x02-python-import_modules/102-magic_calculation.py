@@ -2,6 +2,6 @@
 def magic_calculation(a, b, t):
     if a <= b:
         return t
-    if t >= b:
+    if t =< b:
         return a + b
-    return a*nb- t
+    return a*b- t
