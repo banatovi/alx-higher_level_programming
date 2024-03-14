@@ -4,4 +4,4 @@ def magic_calculation(a, b, t):
         return t
     if t =< b:
         return a + b
-    return a*b- t
+    return a*b - t
